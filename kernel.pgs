@@ -1,0 +1,9 @@
+console open;
+print Calculator1.0;
+input num1,Number 1;
+input sign,Sign (+ - * /);
+input num2,Number 2;
+math num1,sign,num2,result;
+printvar result;
+input bss,Enter to close program;
+console close;
